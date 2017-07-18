@@ -48,7 +48,7 @@
 
 得到如下结果：
 
-> CONTAINER ID &ensp;&ensp;&ensp;&ensp; IMAGE &ensp;&ensp;&ensp;&ensp; COMMAND &ensp;&ensp;&ensp;&ensp; CREATED &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; STATUS &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; PORTS &ensp;&ensp; NAMES
+> CONTAINER ID &ensp;&ensp;&ensp;&ensp; IMAGE &ensp;&ensp;&ensp;&ensp; COMMAND &ensp;&ensp;&ensp;&ensp; CREATED &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; STATUS &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; PORTS &ensp;&ensp;&ensp;&ensp; NAMES
 > 
 > 28fe24874794 &ensp;&ensp;&ensp;&ensp;&ensp; centos &ensp;&ensp;&ensp;&ensp; "/bin/bash" &ensp;&ensp; 56 seconds ago &ensp; Exited (0) 50 seconds ago &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; centos7
 
