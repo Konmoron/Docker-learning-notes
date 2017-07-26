@@ -5,7 +5,7 @@
 ## download Centos 7 image
 `docker pull centos`
 
-## create, start, exit and stop container
+## create, start, exit, stop and restart container
 ### create container
 `docker run -i -t centos /bin/bash`
 
@@ -36,6 +36,12 @@
 `docker stop [container name 或者container ID]`
 
 **注意**：此命令用于宿主机的shell交互界面
+
+### restart container
+
+```
+docker restart [container name 或者 container ID]
+```
 
 ## rename container
 `docker rename [old container name] [new container name]`
